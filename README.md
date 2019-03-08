@@ -5,6 +5,7 @@ and executing backups using Restic.
 
 ## Configuration
 
+
 ## Initialize Backup Repository
 
 ## Do Backup
