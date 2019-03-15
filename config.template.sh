@@ -12,7 +12,9 @@ REPOSITORY=""
 PASSWORD=""
 
 # Directory/ies to backup
-DATA_DIR=""
+DATA_DIRS=(
+    ""
+)
 
 # Where to save logs when a backup is performed in the background.
 LOG_FILE=""
