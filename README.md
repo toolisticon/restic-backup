@@ -13,8 +13,8 @@ but are aimed mostly at Linux based developer machines.
 ## Configuration
 The following steps are necessary to configure Restic-backup:
 
-1. Copy `config.template.sh` to `config.sh`
-2. Change configuration values in config.sh. (All configurations should
+1. Copy `_config.template.sh` to `_config.sh`
+2. Change configuration values in `_config.sh. (All configurations should
  be named clearly and have an explaining comment, to keep things easy.)
 
 ## Initialize Backup Repository
