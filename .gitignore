@@ -3,4 +3,4 @@
 **/*.iml
 
 # Specific files used in any installation
-config.sh
+_config.sh

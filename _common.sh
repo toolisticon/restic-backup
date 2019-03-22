@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 
 # source configuration to read values
-. ./config.sh
+. _config.sh
 
 
 # Check validity of configured values
 function checkConfig() {
-    echo "${1}. Check config.sh"
+    echo "${1}. Check _config.sh"
     exit 1
 }
 

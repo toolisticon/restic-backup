@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-. ./common.sh
+. _common.sh
 
 if [[ $DATA_DIRS = "" ]]; then
     checkConfig "No Directory/ies to backup"

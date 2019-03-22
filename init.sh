@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 
-. common.sh
+. _common.sh
 
 restic init
